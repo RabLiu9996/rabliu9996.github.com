@@ -1,4 +1,8 @@
 # RabLiu9996.github.com
-REALLY???
-你他妈是个大傻逼！
-真他妈傻逼！
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
